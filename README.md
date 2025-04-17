@@ -14,6 +14,8 @@ In [modified_nk_ARNN.py](https://github.com/PaulinDS/Exploring-Latent-Representa
 
 In  [VAE_spins_NNNTFIM.ipynb](https://github.com/PaulinDS/Exploring-Latent-Representation-of-Quantum-Phase-Space-with-Variational-Auto-Encode/blob/main/VAE_spins_NNNTFIM.ipynb), there is the entire code used for the simulations on the NNN-TFIM (creation of the dataset with an exact diagonalization, definition of the dVAE and cpVAE, losses, training...)
 
+In  [VAE_spins_NNNTFIM.ipynb](https://github.com/PaulinDS/Exploring-Latent-Representation-of-Quantum-Phase-Space-with-Variational-Auto-Encode/blob/main/VAE_spins_LRTFIM.ipynb), there is the entire code used for the simulations on the LR-TFIM (creation of the dataset with an exact diagonalization, definition of the dVAE and cpVAE, losses, training...)
+
 ## Package Versions
 
 `flax 0.10.4`

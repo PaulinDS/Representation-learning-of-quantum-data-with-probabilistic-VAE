@@ -1,6 +1,6 @@
 # Exploring-Latent-Representation-of-Quantum-Phase-Space-with-Variational-Auto-Encode
 
-![Image](spinVAE_schema_archi2.png)
+![Image](spinVAE_schema_archi2.jnp)
 
 
 Code used for the numerical simulation of the paper: ...

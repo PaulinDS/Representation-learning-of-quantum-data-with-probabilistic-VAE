@@ -1,4 +1,4 @@
-# Exploring-Latent-Representation-of-Quantum-Phase-Space-with-Variational-Auto-Encode
+# Phisically interpretable representations of quantum data
 
 ![Image](spinVAE_schema_archi2.jpg)
 

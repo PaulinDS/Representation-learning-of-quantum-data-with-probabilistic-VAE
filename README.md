@@ -1,4 +1,4 @@
-# Phisically interpretable representations of quantum data
+# Interpretable representation learning of quantum data enabled by probabilistic variational autoencoders
 
 ![Image](spinVAE_schema_archi2.jpg)
 

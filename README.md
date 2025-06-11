@@ -1,9 +1,11 @@
-# Interpretable representation learning of quantum data enabled by probabilistic variational autoencoders
+# Representation learning of quantum data with probabilistic VAE
 
 ![Image](spinVAE_schema_archi2.jpg)
 
 
-Code used for the numerical simulation of the paper: ...
+Code used for the numerical simulation of the paper: 
+_Interpretable representation learning of quantum data enabled by probabilistic variational autoencoders_
+ArXiv: ...
 
 
 

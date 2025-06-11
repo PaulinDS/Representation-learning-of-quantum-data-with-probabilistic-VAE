@@ -7,6 +7,9 @@ Code used for the numerical simulation of the paper:
 
 _Interpretable representation learning of quantum data enabled by probabilistic variational autoencoders_  
 
+Autors: Paulin de Schoulepnikoff, Gorka Munoz-Gil, Hendrik Poulsen Nautrup and Hans J. Briegel,
+University of Innsbruck, Department for Theoretical Physics, Technikerstr. 21a, A-6020 Innsbruck, Austria
+
 ArXiv: ...
 
 

@@ -1,5 +1,7 @@
 # Representation learning of quantum data with probabilistic VAE
 
+[![DOI](https://zenodo.org/badge/967919929.svg)](https://doi.org/10.5281/zenodo.15689252)
+
 ![Image](spinVAE_schema_archi2.jpg)
 
 

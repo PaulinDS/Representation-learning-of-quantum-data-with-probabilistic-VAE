@@ -12,7 +12,7 @@ _Interpretable representation learning of quantum data enabled by probabilistic 
 Autors: Paulin de Schoulepnikoff, Gorka Munoz-Gil, Hendrik Poulsen Nautrup and Hans J. Briegel,
 University of Innsbruck, Department for Theoretical Physics, Technikerstr. 21a, A-6020 Innsbruck, Austria
 
-ArXiv: 2506.11982
+ArXiv: [2506.11982](https://arxiv.org/abs/2506.11982)
 
 
 
